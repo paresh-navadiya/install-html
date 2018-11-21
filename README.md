@@ -1,2 +1,2 @@
-# install-html
-OTA Download App HTML Page
+# install.html
+OTA Download Application link
